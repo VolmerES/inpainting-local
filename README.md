@@ -1,5 +1,7 @@
 # inpainting-local
 
+> **Sustituido por [`comfyui-local`](https://github.com/VolmerES/comfyui-local)** (2026-10-22): el mismo modelo, ahora dentro de ComfyUI junto con el vídeo (Wan 2.2), con un solo cliente y una sola skill. Este repo se queda como referencia: la skill de `skill/` ya no está instalada.
+
 Inpainting con Stable Diffusion 1.5 en local, en Docker y con GPU:
 
 - **Interfaz** (Gradio) en <http://localhost:7860>: subes una imagen, pintas la zona y escribes el prompt.
