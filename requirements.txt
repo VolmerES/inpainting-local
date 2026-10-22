@@ -1,0 +1,7 @@
+diffusers>=0.32,<0.36
+transformers>=4.46,<5
+accelerate>=1.0
+safetensors
+gradio>=5.9,<6
+numpy
+pillow
